@@ -1,4 +1,4 @@
-describe "Hello World" do 
+describe "Hello World" do
 
   it 'puts "Hello World!"' do
     # $stdout represents the output of your program, don't worry about how
@@ -7,5 +7,3 @@ describe "Hello World" do
     load './hello_world.rb'
     puts "Hello World"
   end
-
-end
